@@ -625,7 +625,9 @@ The following tree reflects the actual folder and file names in this repository:
 │   ├── 06_monthly_spending_trends.png
 │   ├── 07_overall_financial_overview.png
 │   └── 08_final_project_summary.png
+├── .gitattributes
 └── README.md
+
 ```
 
 **Naming note:** The repository currently uses the spelling `Buisness` in both the business-analysis folder and SQL filename. The `.sql` suffix on several directory names is intentional in the current repository structure: those entries are folders, and the executable SQL scripts are inside them. Each final report is also stored inside its own `.sql`-named folder.
